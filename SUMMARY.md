@@ -1,3 +1,10 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Group 1](README.md)
+  * [Factory](group-1/factory.md)
+  * [Frame](group-1/frame.md)
+
+## Group II
+
+* [Conceptual](group-ii/conceptual/README.md)
+  * [Expectations](group-ii/conceptual/expectations.md)
