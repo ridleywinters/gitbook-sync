@@ -4,7 +4,7 @@
   * [My Page](readme/my-page.md)
   * [Factory](group-1/factory.md)
   * [Frame](group-1/frame.md)
-  * [Test File](group-1/test-file.md)
+  * [Next Design Pattern](group-1/test-file.md)
 
 ## Group II
 

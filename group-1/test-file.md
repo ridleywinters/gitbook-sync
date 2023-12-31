@@ -1,3 +1,3 @@
-# Hello world
+# Next Design Pattern
 
-Why doesn't this show up in Gitbook?
+Renamed
